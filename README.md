@@ -25,8 +25,11 @@ In order to run the template locally, do the following steps.
 ## Issues
 Having any issues raise in [Github Issues](https://github.com/vinothvkr/swiftion-portfolio/issues)
 
+## License
+The template is available as open source under the terms of the MIT License.
+
 ## Credits
-Thanks to the developers
+Thanks to the developers of:
 
 - jQuery
 - Bootstrap
